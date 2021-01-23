@@ -1,4 +1,4 @@
-## Stuff I know:
+### Stuff I know:
 
 - Java (2 years)
 - C# (6 months)
