@@ -11,4 +11,3 @@
 - JavaScript
 - C
 - C++
-- Memory stuff
