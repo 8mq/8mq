@@ -1,6 +1,6 @@
 `Followers` 1
 
-`Following` 0
+`Following` 1
 
 `Repos` 3
 
