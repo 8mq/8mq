@@ -1,9 +1,3 @@
-`Followers` 1
-
-`Following` 0
-
-`Repos` 3
-
 ### Stuff I know:
 
 - Java (2 years)
